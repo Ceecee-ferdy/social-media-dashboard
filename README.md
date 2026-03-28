@@ -3,7 +3,7 @@
 A modern and responsive landing page showcasing social media growth insights and AI-powered content tools.
 
 ## 🚀 Live Demo
-[Click here to view the app](https://ceecee-ferdy.github.io/social-media-dashboard/)
+[Check out the live demo of the website.](https://ceecee-ferdy.github.io/social-media-dashboard/)
 
 ## 📸 Screenshot
 ![Project Screenshot](screenshot/screenshot.png)
