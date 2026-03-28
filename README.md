@@ -26,12 +26,6 @@ A modern and responsive landing page showcasing social media growth insights and
 - Structuring complex layouts
 - Improving UI consistency
 
-## 📁 Folder Structure
-project-folder/
-│── index.html
-│── index.css
-│── images/
-│── screenshot.png
 
 ## 👤 Author
 - GitHub:https://github.com/Ceecee-ferdy
